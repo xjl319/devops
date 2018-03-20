@@ -1,0 +1,12 @@
+{
+    "zk_str" : "str",
+    "zk_num" : 111,
+    "zk_map" : {
+        "a" : {
+            "aaa" : 1
+        },
+        "b" : {
+            "bbb" : "dfdfd"
+        }
+    }
+}
