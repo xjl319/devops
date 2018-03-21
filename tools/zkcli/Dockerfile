@@ -1,4 +1,4 @@
-FROM docker.io/library/python/python:2
+FROM python:2.7
 
 RUN mkdir /usr/app
 WORKDIR /usr/app
